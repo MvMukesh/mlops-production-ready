@@ -20,7 +20,7 @@
 
 <h2>
     <p align="center">
-     🕸  MLops Production Ready 🕸
+     ⚙️ MLops Production Ready 🕸
     </p>
 </h2>
 
